@@ -1,7 +1,5 @@
 #![crate_type = "lib"]
 #![feature(try_blocks)]
-//#![feature(nll)]
-#![feature(raw)]
 #![feature(is_sorted)]
 #![feature(cell_update)]
 #![feature(get_mut_unchecked)]
